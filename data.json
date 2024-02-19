@@ -1,0 +1,15 @@
+{
+  "table": {
+    "columns": [
+      { "name": "ID", "type": "integer" },
+      { "name": "Name", "type": "string" },
+      { "name": "Age", "type": "integer" },
+      { "name": "City", "type": "string" }
+    ],
+    "rows": [
+      { "ID": 1, "Name": "John", "Age": 30, "City": "New York" },
+      { "ID": 2, "Name": "Alice", "Age": 25, "City": "Los Angeles" },
+      { "ID": 3, "Name": "Bob", "Age": 35, "City": "Chicago" }
+    ]
+  }
+}

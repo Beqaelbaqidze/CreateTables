@@ -1,0 +1,16 @@
+/* Basic styling for the table */
+#json-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #json-table th, #json-table td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  #json-table th {
+    background-color: #f2f2f2;
+  }
+  
